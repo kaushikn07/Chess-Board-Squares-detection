@@ -23,6 +23,7 @@ This Python script uses OpenCV to detect and analyze a chess board in an image. 
 - The number of black squares is 32, and the number of white squares is 32.
 - The images are displayed in a 1x6 grid, showing the various processing steps.
 
+
 ### Test Case 2
 
 **Input Image**: `img9.jpeg`
@@ -42,3 +43,8 @@ This Python script uses OpenCV to detect and analyze a chess board in an image. 
 ## Note
 
 The script assumes that the input image contains a clear, rectangular chess board. If the chess board is not clearly visible or has a different shape, the script may not work as expected.
+
+
+![Test case Image 1](testcase1.png)
+
+![Test case Image 2](testcase2.png)
